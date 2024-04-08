@@ -1,0 +1,8 @@
+URL shortener takes a valid URL and returns a shortened URL and redirectinf the user to the
+previous URL.
+
+ROUTES:
+
+POST/URL- Generate a new short URL
+GET/id: - Redirect to the original URL
+visitHistory - This is to time of the click
